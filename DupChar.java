@@ -1,3 +1,5 @@
+ // duplicate characters
+
 public class DupChar 
 {  
      public static void main(String[] args) 
